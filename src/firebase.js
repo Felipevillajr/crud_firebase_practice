@@ -1,4 +1,4 @@
-import * as firebase from "firebase";
+import firebase from "firebase/app";
 
 let firebaseConfig = {
   apiKey: process.env.apiKey,
